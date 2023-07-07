@@ -1,0 +1,25 @@
+# Parcel Bundler
+.cache/
+.parcel-cache/
+
+# Dependency directories
+/node_modules
+/.pnp
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+/dist
+
+# Editor directories and files
+/.vscode
+/.idea
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
