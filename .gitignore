@@ -5,6 +5,12 @@
 # Dependency directories
 /node_modules
 /.pnp
+/.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
 
 # Environment variables
 .env
